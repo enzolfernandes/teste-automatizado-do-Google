@@ -1,7 +1,7 @@
 {
-  "name": "teste-automatizado-google",
+  "name": "teste-google-shopping",
   "version": "1.0.0",
-  "description": "Teste automatizado, utilizando Cypress, no Google",
+  "description": "Teste da aba de compras do Google, utilizando Cypress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
