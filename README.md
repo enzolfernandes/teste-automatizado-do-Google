@@ -16,7 +16,7 @@ Com o [Git](https://git-scm.com/) instalando, vá até o terminal e digite:
 
 ```shell
 cd "diretorio de sua preferencia"
-git clone https://github.com/enzolfernandes/teste-automatizado-do-google.git
+git clone https://github.com/enzolfernandes/teste-google-shopping.git
 ```
 ## Executando os teste
 O arquivo que contém o algoritmo do teste está em `...\cypress\integration\GoogleTest.specs.js`. Para executá-lo, devemos abrir a interface, digitando no terminal:
