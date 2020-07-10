@@ -1,0 +1,19 @@
+{
+  "name": "teste-automatizado-google",
+  "version": "1.0.0",
+  "description": "Teste automatizado, utilizando Cypress, no Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Enzo Luiz Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.10.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^1.6.0"
+  }
+}
