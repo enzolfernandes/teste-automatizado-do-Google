@@ -1,9 +1,12 @@
 # Teste Google Shopping
  Teste da área de compras do Google, utilizando [Cypress](https://www.cypress.io/).
  
-# Roteiros de Testes
-Foi utilizada a técnica Behavior Driven Development (BDD) para a elaboração os roteiros.
+# Roteiro de Testes
 ![Roteiros](/images/BDD.PNG)
+Foi utilizada a técnica Behavior Driven Development (BDD) para a elaboração do roteiro, contendo dois cenários, um de falha e sucesso no teste.
+
+
+
 
 
 ## Requisitos
