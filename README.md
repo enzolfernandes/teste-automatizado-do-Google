@@ -3,7 +3,7 @@
  
 # Roteiros de Testes
 Foi utilizada a técnica Behavior Driven Development (BDD) para elaborar os roteiros
-![Roteiro de Testes](/images/BDD.png)
+![Roteiros](/images/BDD.PNG)
 
 ## Requisitos
 Para executar esse projeto são necessários os seguintes programas:
