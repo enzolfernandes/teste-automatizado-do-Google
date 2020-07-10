@@ -2,8 +2,9 @@
  Teste da área de compras do Google, utilizando [Cypress](https://www.cypress.io/).
  
 # Roteiros de Testes
-![Roteiros](/images/BDD.PNG)
 Foi utilizada a técnica Behavior Driven Development (BDD) para a elaboração os roteiros.
+![Roteiros](/images/BDD.PNG)
+
 
 ## Requisitos
 Para executar esse projeto são necessários os seguintes programas:
