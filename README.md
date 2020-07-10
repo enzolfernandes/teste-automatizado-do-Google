@@ -3,7 +3,7 @@
  
 # Roteiro de Testes
 ![Roteiros](/images/BDD.PNG)
-Foi utilizada a técnica Behavior Driven Development (BDD) para a elaboração do roteiro, contendo dois cenários, um de falha e sucesso no teste.
+### Foi utilizada a técnica Behavior Driven Development (BDD) para a elaboração do roteiro, contendo dois cenários, um de falha e sucesso no teste.
 
 
 
